@@ -3,7 +3,7 @@
 # ******************************************************************
 # log4j-scan: A generic scanner for Apache log4j RCE CVE-2021-44228
 # Author:
-# Mazin Ahmed <Mazin at FullHunt.io>
+# Ananya Chatterjee <Mazin at FullHunt.io>
 # Scanner provided by FullHunt.io - The Next-Gen Attack Surface Management Platform.
 # Secure your Attack Surface with FullHunt.io.
 # ******************************************************************
